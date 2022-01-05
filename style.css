@@ -11,11 +11,11 @@ body {
 .top-box{
     box-sizing: border-box;
     border-left: 10px solid skyblue;
-    font-size: 50px;
+    font-size: 35px;
     padding-left: 20px;
 }
 p {
-    font-size: 28px;
+    font-size: 24px;
 }
 .link-button{
     text-decoration: none;
