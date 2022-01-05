@@ -1,9 +1,15 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    padding-left: 7%;
+    padding-right: 7%;
 }
 .flex-container{
     display: flex;
+    padding-bottom: 100px;
+}
+h3 {
+    font-size: 25px;
 }
 .color-salmon{
     color: salmon;
@@ -15,7 +21,7 @@ body {
     padding-left: 20px;
 }
 p {
-    font-size: 24px;
+    font-size: 20px;
 }
 .link-button{
     text-decoration: none;
@@ -27,9 +33,32 @@ p {
 }
 .half-width{
  width: 50%;
- padding-left: 10%;
- padding-top: 5%;
 }
 .half-width img{
     width: 90%;
+}
+.one-third{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+    border-radius: 12px;
+}
+.one-third img{
+    width: 30%;
+}
+.my-mission{
+    text-align: center;
+    font-size: 35px;
+}
+#mission{
+    background-color: rgb(182, 238, 98);
+}
+#vission{
+    background-color: rgb(240, 228, 122);
+}
+#goals {
+    background-color: lightcoral;
+
+
 }
