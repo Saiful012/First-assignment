@@ -59,6 +59,9 @@ p {
 }
 #goals {
     background-color: lightcoral;
-
-
+}
+footer{
+    font-style: italic;
+    background-color: rgb(42, 42, 56);
+    text-align: center;
 }
